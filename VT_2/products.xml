@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+    <product>
+        <info type ="phone">Phone</info>
+        <company>Samsung</company>
+        <color>Black</color>
+        <price>600</price>
+    </product>
+    <product>
+        <info type ="laptop">Laptop</info>
+        <company>Asus</company>
+        <price>320</price>
+        <screen_inches>15</screen_inches>
+        <operating_system>Windows</operating_system>
+    </product>
+    <product>
+        <info type ="kettle">Kettle</info>
+        <company>Bosch</company>
+        <price>400</price>
+        <volume>2</volume>
+    </product>
+    <product>
+        <info type ="phone">Phone</info>
+        <company>Motorola</company>
+        <color>Brown</color>
+        <price>40</price>
+    </product>
+    <product>
+        <info type ="laptop">Laptop</info>
+        <company>Lenovo</company>
+        <price>500</price>
+        <screen_inches>13</screen_inches>
+        <operating_system>Linux</operating_system>
+    </product>
+    <product>
+        <info type ="kettle">Kettle</info>
+        <company>Philips</company>
+        <price>300</price>
+        <volume>1</volume>
+    </product>
+</products>
